@@ -1,0 +1,60 @@
+.content{
+    position: relative;
+    width: 1800px;
+    height: 709px; 
+    background-image: url(./images/BG\ \(4\).png);
+   &__m1{
+    color: white;
+    position: absolute;
+    left: 120px;
+    top: 160px;
+    font-family: "Cormorant Upright", serif;
+    font-weight: 100;
+    font-size: 16px;
+    &__i7{
+        color: white;
+        position: absolute;
+        left: 120px;
+        top: 190px;
+        font-family: "Cormorant Upright", serif;
+        font-weight: 100;
+        font-size: 16px;
+        &__d1{
+            position: absolute;
+           
+            left: 120px;
+            top: 200px;
+            color: #DCCA87;
+            font-family: "Cormorant Upright", serif;
+            font-weight: 400;
+            font-size: 64px;
+            &__e1{
+                position: absolute;
+                left: 120px;
+                top: 300px;
+                color: #AAAAAA;
+                &__b-btn{
+                    position: absolute;
+                    left: 120px;
+                    top: 370px;
+                    width: 136px;
+                    height: 44px;
+                    border: 1px solid  #DCCA87;
+                    border-radius: 2px;
+                    background: #DCCA87;
+                    font-family: "Cormorant Upright", serif;
+                    font-weight: 100;
+                    font-size: 16px;
+                    color: black;
+
+                    &__i8{
+                        position: absolute;
+                        left: 540px;
+                        top: 70px;
+                    }
+                }
+            }
+        }
+    }
+   }
+}

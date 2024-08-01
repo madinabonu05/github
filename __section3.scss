@@ -1,0 +1,135 @@
+.box1{
+    position: relative;
+    width:1800px; 
+    height: 959px;
+    background-image: url(./images/BG\ \(7\).png);
+    &__i{
+
+        position: absolute;
+        left: 70px;
+        top: 70px;
+        &__a1{
+            position: absolute;
+            font-family: "Cormorant Upright", serif;
+            font-weight: 400;
+            font-size: 23px;
+            left: 360px;
+            top: 280px;
+            color: #FFFFFF;
+            &__i1{
+                position: absolute;
+                left: 360px;
+                top: 317px;
+                &__o1{
+                    position: absolute;
+                    left: 360px;
+                    top: 355px;
+                    color: #DCCA87;
+                    font-family: "Cormorant Upright", serif;
+                    font-weight: 400;
+                    font-size: 64px;
+                    &__i2{
+                        width: 79px;
+                        height: 79px;
+                        top: 499px;
+                        position: absolute;
+                        left: 360px;
+                        &__o2{
+                            position: absolute;
+                            left: 480px;
+                            top: 500px;
+                            font-family: "Cormorant Upright", serif;
+                            font-weight: 400;
+                            font-size: 23px;
+                            color: #DCCA87;
+                            &__l1{
+                                position: absolute;
+                                left: 480px;
+                                top: 540px;
+                                color: #AAAAAA;
+                                &__i3{
+                                    width: 79px;
+                                    height: 79px;
+                                    position: absolute;
+                                    left: 360px;
+                                    top: 680px;
+                                    &__03{
+                                        color: #DCCA87;
+                                        position: absolute;
+                                        left: 480px;
+                                        top: 680px;
+                                        font-family: "Cormorant Upright", serif;
+                                        font-weight: 400;
+                                        font-size: 23px;
+                                        &__l2{
+                                            position: absolute;
+                                            left: 480px;
+                                            top: 720px;
+                                            color: #AAAAAA;
+                                            &__i4{
+                                                width: 79px;
+                                                height: 79px;
+                                                position: absolute;
+                                                left:700px;
+                                                top:500px;
+                                                &__o4{
+                                                    color: #DCCA87;
+                                                    position: absolute;
+                                                    left: 820px;
+                                                    top: 500px;
+                                                    font-family: "Cormorant Upright", serif;
+                                                    font-weight: 400;
+                                                    font-size: 23px;
+                                                    &__l3{
+                                                        position: absolute;
+                                                        left: 820px;
+                                                        top: 540px;
+                                                        color: #AAAAAA;
+                                                        &__i5{
+                                                            width: 79px;
+                                                            height: 79px;
+                                                            position: absolute;
+                                                            left:700px;
+                                                            top:680px;
+                                                            &__o5{
+                                                                color: #DCCA87;
+                                                                position: absolute;
+                                                                left: 820px;
+                                                                top: 680px;
+                                                                font-family: "Cormorant Upright", serif;
+                                                                font-weight: 400;
+                                                                font-size: 23px;
+                                                                &__l4{
+                                                                    position: absolute;
+                                                                    left: 820px;
+                                                                    top: 720px;
+                                                                    color: #AAAAAA;
+                                                                    &__i6{
+                                                                        width: 555px;
+                                                                        height: 691px;
+                                                                        position: absolute;
+                                                                        left: 1040px;
+                                                                        top: 200px;
+                                                                        &__i7{
+                                                                            position: absolute;
+                                                                            left: 100px;
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+       
+    }
+}

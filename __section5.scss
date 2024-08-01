@@ -1,0 +1,76 @@
+.contact{
+    position: relative;
+    width: 1800px;
+    margin: 0 auto;
+    height: 992px;
+    background-image: url(./images/BG\ \(8\).png);
+
+
+    &__n1{
+
+        position: absolute;
+        left: 350px;
+        top: 250px;
+        color: white;
+        &__i9{
+            position: absolute;
+            left: 350px;
+            top: 280px;
+            &__n2{
+                position: absolute;
+                left: 350px;
+                top: 300px;
+                color: #DCCA87; font-family: "Cormorant Upright", serif;
+                font-weight: 300;
+                font-size: 64px;
+                color: #DCCA87;
+                &__n3{
+                    position: absolute;
+                    left: 350px;
+                    top: 450px;
+                 color: #AAAAAA;
+                 &__n4{
+                    position: absolute;
+                    left: 350px;
+                    top: 500px;
+                    color: #DCCA87; font-family: "Cormorant Upright", serif;
+                    font-weight: 300;
+                    font-size: 23px;
+                    &__n5{ 
+                        position: absolute;
+                        color: #FFFFFF;
+                        left: 350px;
+                        top: 560px;
+                        &__n6{
+                            position: absolute;
+                            left: 350px;
+                            top: 600px;
+                            color:#FFFFFF;
+
+                            &__btn4{
+                                position: absolute;
+                                left: 350px;
+                                top: 680px;
+                                color: black;
+                                width: 119px;
+                                height: 44px;
+                                background: #DCCA87;
+                                border-radius: 2px solid  #DCCA87;
+                                font-family: "Cormorant Upright", serif;
+                                font-weight: 600;
+                                font-size:16px;
+                                &__r5{
+                                    position: absolute;
+                                    left: 870px     ;
+                                    width: 667px;
+                                    height: 736px;
+                                }
+                            }
+                        }
+                    }
+                 }
+                }
+            }
+        }
+    }
+}

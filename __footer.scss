@@ -1,0 +1,179 @@
+.conatiner{
+    margin: 0 auto;
+}
+.footer{
+    margin: 0 auto;
+    position: relative;
+    width: 1800px;
+    height: 959px; 
+    background-image: url(./images/BG\ \(4\).png);
+    background-repeat: no-repeat;
+    
+      
+     &__s1{
+      position: absolute;
+      top: 60px;
+      left: 910px;
+        color: white;
+     
+        &__r6{
+            position: absolute;
+            left: 930px;
+            top: 85px;
+            &__s2{
+                position: absolute;
+                left: 580px;
+               top: 120px;
+                font-family: "Cormorant Upright", serif;
+                font-weight: 400;
+                font-size: 64px;
+                color:  #DCCA87;
+                &__s3{
+                    position: absolute;
+                    left: 830px;
+                    top: 260px;
+                    color: #FFFFFF;
+                    font-family: "Cormorant Upright", serif;
+                    font-weight: 400;
+                    font-size: 16px;
+                    &__f4{
+                        position: absolute;
+                        left: 550px;
+                        top: 350px;
+                        width: 796px;
+                        height: 60px;
+                        background: black;
+                        border: 1px solid #DCCA87;
+                        &__btn7{
+                            position: absolute;
+                            left: 1400px;
+                            top: 350px;
+                            width: 129px;
+                            height: 44px;
+                            
+                            
+                            background: #DCCA87;
+                            font-family: "Cormorant Upright", serif;
+                            font-weight: 500;
+                            font-size: 16px;
+
+                            
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}
+.footer-end{
+    position: relative;
+
+    &__c1{
+        position: absolute;
+      left: 400px;
+      color: #FFFFFF;
+      top: 600px;
+      font-family: "Cormorant Upright", serif;
+      font-weight: 500;
+      font-size: 23px;
+      &__c2{
+        position: absolute;
+        color: #AAAAAA;
+        top: 660px;
+        left: 330px;
+        &__c3{
+            position: absolute;
+            color: #AAAAAA;
+            top: 710px;
+            left: 399px;
+            &__c4{
+                position: absolute;
+                color: #AAAAAA;
+                top: 740px;
+                left: 399px;
+                &__c5{
+                    position: absolute;
+                    color: #DCCA87;
+                    left: 800px;
+                    top: 580px;
+                    font-family: "Cormorant Upright", serif;
+                    font-weight: 500;
+                    font-size: 64px;
+                    &__c6{
+                        position: absolute;
+                        color: #AAAAAA;
+                       left: 700px;
+                       top: 700px;
+                       &__r7{
+                        position: absolute;
+                        left: 930px;
+                        top: 740px;
+                        &__c7{
+                            position: absolute;
+                            color: #AAAAAA;
+                            left: 820px;
+                            top: 890px;
+                            &__c9{
+                                position: absolute;
+                            color:  #F5EFDB;
+                            left: 1450px;
+                            top: 610px;  
+                            font-family: "Cormorant Upright", serif;
+                            font-weight: 500;
+                            font-size: 23px;
+                            &__v{
+                                position: absolute;
+                                color: #AAAAAA;
+                                left: 1470px;
+                                top: 680px;
+                               
+                                font-weight: 300;
+                                font-size: 16px;
+                                &__v1{
+                                    position: absolute;
+                                    color: #AAAAAA;
+                                    left: 1470px;
+                                    top: 710px;
+                                   
+                                    font-weight: 300;
+                                    font-size: 16px;
+                                    &__v2{
+                                        position: absolute;
+                                        color: #AAAAAA;
+                                        left: 1470px;
+                                        top: 760px;
+                                       
+                                        font-weight: 300;
+                                        font-size: 16px;
+                                        &__v3{
+                                            position: absolute;
+                                            color: #AAAAAA;
+                                            left: 1470px;
+                                            top: 793px;
+                                           
+                                            font-weight: 300;
+                                            font-size: 16px;
+                                        }
+                                    }
+                                }
+
+                            }
+                            }
+                        }
+                       }
+                    }
+                }
+            }
+        }
+      }
+
+       
+        
+    }
+}
+.fa-brands{
+    position: absolute;
+    left: 900px;
+    top: 800px;
+}

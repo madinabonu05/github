@@ -1,0 +1,457 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+
+}
+.special{
+    position: relative;
+    width: 1800px;
+    height: 959px;
+    background-image: url(./images/BG\ \(4\).png);
+    
+    
+    &__card{
+
+
+        &__content1{
+
+
+            &__title3{
+                color:#FFFFFF;
+                text-align: center;
+              
+                margin-left: 60px;
+
+                &__rasm4{
+                  color:  #DCCA87;
+                  margin-left: 900px;
+                  margin-top: 10px;
+                  &__title4{
+                    font-family: "Cormorant Upright", serif;
+                    font-weight: 500;
+                    font-size: 64px;
+                    color: #DCCA87;
+                    text-align: center;
+                    margin-top: 10px;
+                    margin-left: 50px;
+                    &__title5{
+                        position: absolute;
+                        top:150px;
+                        margin-left: 450px;
+                        font-family: "Cormorant Upright", serif;
+                        font-weight: 500;
+                        font-size: 45px;
+                        color: #FAFAFA;
+                        &__left{
+                          
+                            &__b1{
+                                position: absolute;
+                                top: 230px;
+                                margin-left: 390px;
+                                font-family: "Cormorant Upright", serif;
+                                font-weight: 100;
+                                font-size: 23px;
+                                color: #DCCA87;
+                                margin-top: 30px;
+                                &__c1{
+                                    position: absolute;
+                                    top: 320px;
+                                    margin-left: 390px;
+                                    color:  #AAAAAA;
+                                  &__menu1{
+
+
+                                    &__p1{
+                                        position: absolute;
+                                       left: 714px;
+                                       top: 260px;
+                                       color: #FFFFFF;
+                                       font-size: 23px;
+                                       &__b2{
+                                        position: absolute;
+                                        top: 340px;
+                                        margin-left: 390px;
+                                        font-family: "Cormorant Upright", serif;
+                                        font-weight: 100;
+                                        font-size: 23px;
+                                        color: #DCCA87;
+                                        margin-top: 30px;
+                                        &__c2{
+                                            position: absolute;
+                                            top: 430px;
+                                            margin-left: 390px;
+                                            color: #AAAAAA;
+                                            &__menu2{
+
+                                                &__p2{
+                                                    position: absolute;
+                                                    left: 714px;
+                                                    top: 370px;
+                                                    color: #FFFFFF;
+                                                    font-size: 23px;
+
+                                                    &__b3{
+                                                        position: absolute;
+                                                        top: 440px;
+                                                        margin-left: 390px;
+                                                        font-family: "Cormorant Upright", serif;
+                                                        font-weight: 100;
+                                                        font-size: 23px;
+                                                        color: #DCCA87;
+                                                        margin-top: 30px;
+                                                        &__c3{
+                                                            position: absolute;
+                                                            top: 530px;
+                                                            margin-left: 390px;
+                                                            color: #AAAAAA;
+
+                                                            &__menu3{
+
+                                                                &__p3{
+                                                                    position: absolute;
+                                                                    left: 710px;
+                                                                    top: 475px;
+                                                                    color: #FFFFFF;
+                                                                    font-size: 23px;
+
+                                                                    &__b4{
+                                                                        position: absolute;
+                                                                        top: 553px;
+                                                                        margin-left: 390px;
+                                                                        font-family: "Cormorant Upright", serif;
+                                                                        font-weight: 100;
+                                                                        font-size: 23px; 
+                                                                        color: #DCCA87;
+                                                                        margin-top: 30px;
+
+                                                                        &__c4{
+                                                                            position: absolute;
+                                                                            top: 640px;
+                                                                            margin-left: 390px;
+                                                                            color: #AAAAAA;
+                                                                            &__menu4{
+
+                                                                                &__p4{
+                                                                                    position: absolute;
+                                                                                    left: 714px;
+                                                                                    top: 590px;
+                                                                                    color: #FFFFFF;
+                                                                                    font-size: 23px;
+                                                                                    &__b5{
+                                                                                        position: absolute;
+                                                                                        top: 560px;
+                                                                                        margin-left: 390px;
+                                                                                        font-family: "Cormorant Upright", serif;
+                                                                                        font-weight: 100;
+                                                                                        font-size: 23px; 
+                                                                                        color: #DCCA87;
+                                                                                        margin-top: 130px;
+                                                                                        &__c5{
+                                                                                            position: absolute;
+                                                                                            top: 740px;
+                                                                                            margin-left: 390px;
+                                                                                            color: #AAAAAA;
+
+                                                                                            &__menu5{
+
+                                                                                                &__p5{
+                                                                                                    position: absolute;
+                                                                                                    left: 714px;
+                                                                                                    top: 699px;
+                                                                                                    color: #FFFFFF;
+                                                                                                    font-size: 23px;
+                                                                                                    &__rasm5{
+
+                                                                                                        position: absolute;
+                                                                                                        left:750px;
+                                                                                                        top: 160px;
+                                                                                                        &__title6{
+                                                                                                            position: absolute;
+                                                                                                            top:150px;
+                                                                                                            margin-left: 1300px;
+                                                                                                            font-family: "Cormorant Upright", serif;
+                                                                                                            font-weight: 500;
+                                                                                                            font-size: 45px;
+                                                                                                            color: #FAFAFA;
+                                                                                                            &__right{
+
+                                                                                                                &__b6{
+                                                                                                                    position: absolute;
+                                                                                                                    top: 230px;
+                                                                                                                    margin-left: 1200px;
+                                                                                                                    font-family: "Cormorant Upright", serif;
+                                                                                                                    font-weight: 100;
+                                                                                                                    font-size: 23px;
+                                                                                                                    color: #DCCA87;
+                                                                                                                    margin-top: 30px;
+                                                                                                                    color:#DCCA87;
+                                                                                                                    &__c6{
+                                                                                                                        color: #AAAAAA;
+                                                                                                                        position: absolute;
+                                                                                                                        top: 310px;
+                                                                                                                        margin-left: 1200px;
+                                                                                                                        &__menu6{
+
+                                                                                                                            &__p6{
+                                                                                                                                position: absolute;
+                                                                                                                                left: 1560px;
+                                                                                                                                top: 265px;
+                                                                                                                                color: #FFFFFF;
+                                                                                                                                font-size: 23px;
+                                                                                                                                &__b7{
+                                                                                                                                    color:#DCCA87;
+                                                                                                                                    position: absolute;
+                                                                                                                                    top: 330px;
+                                                                                                                                   margin-left: 1200px;
+                                                                                                                                   font-family: "Cormorant Upright", serif;
+                                                                                                                                   font-weight: 100;
+                                                                                                                                   font-size: 23px;
+                                                                                                                                   margin-top: 30px;
+
+                                                                                                                                    &__c7{
+                                                                                                                                    
+
+                                                                                                                                     &__menu7{
+                                                                                                                                        color: #AAAAAA;
+                                                                                                                                        position: absolute;
+                                                                                                                                        top: 420px;
+                                                                                                                                        margin-left: 1200px;
+
+                                                                                                                                        &__p7{
+                                                                                                                                            color: #FFFFFF;
+                                                                                                                                            font-size: 23px;
+                                                                                                                                            position: absolute;
+                                                                                                                                            left: 1560px;
+                                                                                                                                            top: 365px;
+                                                                                                                                         
+                                                                                                                                            &__b8{
+                                                                                                                                                color: #DCCA87;
+                                                                                                                                                position: absolute;
+                                                                                                                                                top: 440px;
+                                                                                                                                                margin-left: 1200px;
+                                                                                                                                                font-family: "Cormorant Upright", serif;
+                                                                                                                                                font-weight: 100;
+                                                                                                                                                font-size: 23px;
+                                                                                                                                                margin-top: 30px;
+                                                                                                                                                
+                                                                                                                                                &__c8{
+                                                                                                                                                    color: #AAAAAA;
+                                                                                                                                                    position: absolute;
+                                                                                                                                                    top: 540px;
+                                                                                                                                                    margin-left: 1200px;
+
+
+
+                                                                                                                                                    &__menu8{
+
+                                                                                                                                                        &__p8{
+                                                                                                                                                            color:#FFFFFF;
+                                                                                                                                                            font-size: 23px;
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            left: 1560px;
+                                                                                                                                                            top: 465px;
+
+                                                                                                                                                            &__b9{
+                                                                                                                                                                color: #DCCA87;
+                                                                                                                                                                position: absolute;
+                                                                                                                                                                top: 550px;
+                                                                                                                                                                margin-left: 1200px;
+                                                                                                                                                                font-family: "Cormorant Upright", serif;
+                                                                                                                                                                font-weight: 100;
+                                                                                                                                                                font-size: 23px;
+                                                                                                                                                                margin-top: 30px;
+                                                                                                                                                                &__c9{
+                                                                                                                                                                    color:#AAAAAA;
+                                                                                                                                                                    color: #AAAAAA;
+                                                                                                                                                                    position: absolute;
+                                                                                                                                                                    top: 640px;
+                                                                                                                                                                    margin-left: 1200px;
+                                                                                                                                                                    &__menu9{
+
+                                                                                                                                                                        &__p9{
+                                                                                                                                                                            color: #FAFAFA;
+                                                                                                                                                                            font-size: 23px;
+                                                                                                                                                                            position: absolute;
+                                                                                                                                                                            left: 1560px;
+                                                                                                                                                                            top: 575px;
+                                                                                                                                                                            &__b10{
+                                                                                                                                                                                color: #DCCA87;
+                                                                                                                                                                                position: absolute;
+                                                                                                                                                                                top: 670px;
+                                                                                                                                                                                margin-left: 1200px;
+                                                                                                                                                                                font-family: "Cormorant Upright", serif;
+                                                                                                                                                                                font-weight: 100;
+                                                                                                                                                                                font-size: 23px;
+                                                                                                                                                                                margin-top: 30px;
+                                                                                                                                                                                &__c10{
+                                                                                                                                                                                    color: #AAAAAA;
+                                                                                                                                                                                    position: absolute;
+                                                                                                                                                                                    top: 750px;
+                                                                                                                                                                                    margin-left: 1200px;
+                                                                                                                                                                                    &__menu10{
+
+                                                                                                                                                                                        &__p10{
+                                                                                                                                                                                            color: #FFFFFF;
+                                                                                                                                                                                            font-size: 23px;
+                                                                                                                                                                                            position: absolute;
+                                                                                                                                                                                            left: 1560px;
+                                                                                                                                                                                            top: 697px;
+                                                                                                                                                                                            &__button1{
+                                                                                                                                                                                              
+
+                                                                                                                                                                                                &__btn3{
+                                                                                                                                                                                                    width: 136px;
+                                                                                                                                                                                                    height: 44px;
+                                                                                                                                                                                                    border: 1px solid #DCCA87;
+                                                                                                                                                                                                    color: black;
+                                                                                                                                                                                                    background: #DCCA87;
+                                                                                                                                                                                                    font-family: "Cormorant Upright", serif;
+                                                                                                                                                                                                    font-weight: 100;
+                                                                                                                                                                                                    border-radius: 2px;
+                                                                                                                                                                                                    position: absolute;
+                                                                                                                                                                                                    left: 900px;
+                                                                                                                                                                                                    top: 900px;
+                                                                                                                                                                                                }
+                                                                                                                                                                                            }
+                                                                                                                                                                                        }
+                                                                                                                                                                                    }
+                                                                                                                                                                                }
+                                                                                                                                                                            }
+                                                                                                                                                                        }
+                                                                                                                                                                    }
+                                                                                                                                                                }
+                                                                                                                                                            }
+                                                                                                                                                        }
+                                                                                                                                                    }
+                                                                                                                                                }
+                                                                                                                                            }
+                                                                                                                                        }
+                                                                                                                                     }
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+
+                                               
+                                            }
+                                        }
+                                       }
+                                    }
+                                  }
+                                    
+                                }
+                            }
+                        }
+
+                    }
+
+                  }
+                }
+            }
+        }
+    }
+
+    
+}
+.line{
+    position: absolute;
+    top: 270px;
+    width: 119px;
+    columns:  #FAFAFA;
+    margin-left: 570px;
+    
+}
+.line1{
+    position: absolute;
+    top: 380px;
+    width: 119px;
+    columns:  #FAFAFA;
+    margin-left: 570px;
+}
+.line2{
+    position: absolute;
+    top: 484px;
+    width: 119px;
+    columns:  #FAFAFA;
+    margin-left: 570px;
+}
+.line3{
+    
+    position: absolute;
+    top: 599px;
+    width: 119px;
+    columns:  #FAFAFA;
+    margin-left: 570px;
+}
+.line4{
+    position: absolute;
+    top: 707px;
+    width: 119px;
+    columns:  #FAFAFA;
+    margin-left: 570px;
+}
+.line5{
+    position: absolute;
+    top: 275px;
+    width: 119px;
+    columns:  #FAFAFA;
+    margin-left: 1400px;
+}
+.line6{
+    position: absolute;
+    top: 375px;
+    width: 119px;
+    columns:  #FAFAFA;
+    margin-left: 1400px;
+}
+.line7{
+    position: absolute;
+    top: 480px;
+    width: 119px;
+    columns:  #FAFAFA;
+    margin-left: 1400px;
+}
+.line8{
+    position: absolute;
+    top:590px;
+    width: 119px;
+    columns:  #FAFAFA;
+    margin-left: 1400px;
+}
+.line9{
+    position: absolute;
+    top: 710px;
+    width: 119px;
+    columns:  #FAFAFA;
+    margin-left: 1400px;
+}
+
+
+
+
+
+
+

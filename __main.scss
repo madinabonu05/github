@@ -1,0 +1,105 @@
+
+    *{
+        margin: 0 ;
+        padding: 0;
+        box-sizing: border-box;
+        list-style: none;
+        text-decoration: none;
+    }
+    
+
+.container{
+    width: 1800px;
+    margin: 0 auto;
+}
+main{
+    width: 1800px;
+    height: 959px;
+    margin: 0 auto;
+}
+.card{
+ 
+    position: relative;
+    width: 1800px;
+    height: 959px; 
+    background-image: url(./images/BG\ \(4\).png);
+    background-repeat: no-repeat;
+
+    &__rasm2{
+      margin-left:650px;
+      margin-top: 270px;
+        width: 391px;
+        height: 415px;
+        &__wrapper{
+            display: flex;
+           
+           &__box{
+
+            &__title1{
+                position: absolute;
+                font-family: "Cormorant Upright", serif;
+                font-weight: 400;
+                font-size: 64px;
+                top: 350px;
+                left: 480px;
+                color:#DCCA87;
+                &__text1{
+                    position: absolute;
+                    left: 360px;
+                    top: 500px;
+                    color:#AAAAAA;
+                    &__btn1{
+                        position: absolute;
+                        left: 555px;
+                        top: 600px;
+                        width: 157px;
+                        height: 44px;
+                        font-family: "Cormorant Upright", serif;
+                        padding:8px, 32px, 8px, 32px;
+                       color: black;
+                       background: #DCCA87;
+                       border: 1px solid #DCCA87;
+                       border-radius: 2px;
+                       &__rasm3{
+                   position: absolute;
+                   left: 820px;
+                   top: 100px;
+                     height: 700px;
+                     &__title2{
+                        position: absolute;
+                        left: 980px;
+                        top: 350px;
+                        font-family: "Cormorant Upright", serif;
+                        font-weight: 400;
+                        font-size: 64px;
+                        color:#DCCA87;
+                        &__text2{
+                            position: absolute;
+                            left: 987px;
+                            top: 500px;
+                            color: #AAAAAA;
+                            &__btn2{
+                                position: absolute;
+                                left: 990px;
+                                top: 600px;
+                                width: 157px;
+                                height: 44px;
+                               font-family: "Cormorant Upright", serif;
+                               color: black;
+                               background: #DCCA87;
+                               border: 1px solid #DCCA87;
+                               border-radius: 2px; 
+                            }
+
+                        }
+                     }
+                    
+                       }
+                    }
+                }
+            }
+           }
+        }
+       
+    }
+}

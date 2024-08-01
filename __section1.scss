@@ -1,0 +1,113 @@
+
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.container{
+    margin: 0 auto
+}
+.card1{
+    position: relative;
+    width: 1800px;
+    height: 1045px;
+    margin: 0 auto;
+    display: flex;
+    background-image: url(./images/BG\ \(5\).png);
+    
+
+    
+  &__home{
+
+
+    &__pic1{
+      
+      margin-left: 190px;
+      width: 634px;
+      height: 789px;
+      margin-top: 190px;
+
+      &__home2{
+
+
+        &__t1{
+            position: absolute;
+            top: 293px;
+          color: #FFFFFF;
+          font-size: 23px;
+          font-family: "Cormorant Upright", serif;
+          font-weight: 100;
+          margin-left: 200px;
+          &__pic2{
+            position: absolute;
+            top: 330px;
+            margin-top: 5px;
+            margin-left: 200px;
+            &__t2{
+                position: absolute;
+                top: 360px;
+                color: #DCCA87;
+                font-family: "Cormorant Upright", ;
+                font-weight: 400;
+                font-size: 64PX;
+                margin-left: 200px;
+                &__p1{
+                    position: absolute;
+                    top: 510px;
+                    color:  #AAAAAA;
+                    font-family:  'Open Sans';
+                    font-weight: 100;
+                    font-size: 16px;
+                    margin-left: 200px;
+                    &__t3{
+                        position: absolute;
+                        top: 660px;
+                        color: #DCCA87;
+                        font-family: "Cormorant Upright", serif;
+                        font-weight: 300;
+                        font-size: 38px;
+                        margin-left: 200px;
+                        &__t4{
+                            position: absolute;
+                            top: 720px;
+                            color: #AAAAAA;
+                            font-family: "Cormorant Upright", serif;
+                            font-weight: 100;
+                            font-size: 18px;
+                            margin-left: 200px;
+                           
+                            &__t5{
+                                color: #AAAAAA;
+                                font-family: 'Bestermind', sans-serif;
+                                font-size: 64px;
+                                font-weight: 100;
+                                margin-left: 200px;
+                                margin-top: 800px;
+
+                            }
+
+                        }
+                    }
+                }
+
+            }
+          }
+
+        }
+      }
+
+    }
+  }
+  
+   
+   
+  
+}
+.v{
+  position: absolute;
+  top: 486px;
+  left: 1016px;
+  width: 47px;
+  height: 40px;
+}
